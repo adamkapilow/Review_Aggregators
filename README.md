@@ -1,2 +1,2 @@
 # Consumer's guide to review aggregators
- Consumer guide to review aggregation as my Springboard capstone project. Visible as static HTML here on GitHub, or live and interactable on Google CoLab at https://colab.research.google.com/drive/1xwtPTNKZ-YkPoWhuDiojW0eMSYAh9cNw?usp=sharing
+In this document we look at Rotten Tomatoes and Metacritic and help consumers find out ways to use them effectively to find popular works of art. What about these sites works well and what doesn't? Visible as static HTML here on GitHub, or live and interactable on Google CoLab at https://colab.research.google.com/drive/1xwtPTNKZ-YkPoWhuDiojW0eMSYAh9cNw?usp=sharing
